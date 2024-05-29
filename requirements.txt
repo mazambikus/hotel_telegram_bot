@@ -1,0 +1,9 @@
+telebot
+requests~=2.31.0
+pytelegrambotapi
+loguru~=0.7.2
+chardet~=5.2.0
+utils~=1.0.2
+loader~=2017.9.11
+peewee~=3.17.5
+python-dotenv~=0.21.1
